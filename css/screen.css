@@ -1,0 +1,8 @@
+html {
+    font-size: 17px;
+    font-family: / 28px 'Conv_UTM Avo',Sans-Serif;
+    font-weight: 300;
+}
+.nav > li, .nav_page_number > li, .top_bar.hasbg #menu_wrapper div .nav > li.current-menu-item > a span, .top_bar.hasbg #menu_wrapper div .nav > li.current-menu-parent > a span, .top_bar.hasbg #menu_wrapper div .nav > li.current-menu-ancestor > a span {
+    font-family: 'Conv_UTM Avo';
+} 
